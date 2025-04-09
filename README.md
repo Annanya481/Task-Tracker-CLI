@@ -103,3 +103,9 @@ Tasks are stored in a local JSON file named tasks.json.
 - [Cobra CLI](https://github.com/spf13/cobra)
 - [tablewriter](https://github.com/olekukonko/tablewriter)
 - [faith/color](https://github.com/fatih/color)
+
+---
+
+## Reference
+
+[https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker)
